@@ -1,5 +1,5 @@
 # Mahara-Links
-## Alle Links zu den Dokumentation meiner Projektarbeiten
+Hier finden Sie alle Links zu den Dokumentation meiner Projektarbeiten
 
 ### Skalierbares Drupal-CMS in AWS für MeeNerd
 Zusammenfassung:
