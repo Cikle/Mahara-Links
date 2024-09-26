@@ -3,6 +3,13 @@
 
 ***Weiteres können Sie auch auf meinem [GitHub](https://github.com/Cikle) sehen***
 
+### React Native Schrittzähler App
+Zusammenfassung:
+Das Projekt ist eine aktive Schrittzähler-App für Handys mit automatischem Speichern und Kalorienzähler.
+
+**[Schrittzähler Projektdokumentation](https://portfolio.bbbaden.ch/view/view.php?t=ba8c32fe5cd61b37ffd1)**
+**[Schrittzähler GitHub](https://github.com/Cikle/Movely---Step-Tracker-App)**
+
 ### Skalierbares Drupal-CMS in AWS für MeeNerd
 Zusammenfassung:
 Das Projekt implementiert ein skalierbares Drupal-CMS in der AWS-Cloud für MeeNerd, mit automatisierten Backups und Sicherheitsfunktionen zur effizienten Verwaltung ihres wachsenden Geschäfts.
