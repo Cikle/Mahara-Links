@@ -3,6 +3,8 @@
 
 ***Weiteres können Sie auch auf meinem [GitHub](https://github.com/Cikle) sehen***
 
+***
+
 ### Lohnify - Swiss Salary Calculator
 Zusammenfassung:
 Lohnify ist eine Flutter-basierte mobile Anwendung, die Nutzern in der Schweiz hilft, ihr Nettogehalt zu berechnen. Dabei werden verschiedene Abzüge wie Sozialversicherungsbeiträge, Pensionskassen und kantonale Steuersätze berücksichtigt.
@@ -19,6 +21,7 @@ Lohnify ist eine Flutter-basierte mobile Anwendung, die Nutzern in der Schweiz h
 
 **[Lohnify GitHub](https://github.com/Cikle/lohnify)**
 
+***
 
 ### React Native Schrittzähler App
 Zusammenfassung:
@@ -27,11 +30,15 @@ Das Projekt ist eine aktive Schrittzähler-App für Handys mit automatischem Spe
 **[Schrittzähler Projektdokumentation](https://portfolio.bbbaden.ch/view/view.php?t=ba8c32fe5cd61b37ffd1)**
 **[Schrittzähler GitHub](https://github.com/Cikle/Movely---Step-Tracker-App)**
 
+***
+
 ### Skalierbares Drupal-CMS in AWS für MeeNerd
 Zusammenfassung:
 Das Projekt implementiert ein skalierbares Drupal-CMS in der AWS-Cloud für MeeNerd, mit automatisierten Backups und Sicherheitsfunktionen zur effizienten Verwaltung ihres wachsenden Geschäfts.
 
 **[Drupal Projektdokumentation](https://portfolio.bbbaden.ch/view/view.php?t=d605e731be094f388c8d)**
+
+***
 
 ### NumberGuesser2.0
 Zusammenfassung:
@@ -39,12 +46,15 @@ Dieses Projekt verbessert das ursprüngliche Number-Guesser-Spiel durch die Impl
 
 **[Number Guesser 2.0](https://portfolio.bbbaden.ch/view/view.php?t=a5a86d06baddefd34498)**
 
+***
+
 ### TicTacToe Webapplikation 1302
 Zusammenfassung:
 Das Projekt zielt darauf ab, ein objektorientiertes TicTacToe-Spiel als Webanwendung zu entwickeln, um Erfahrungen in HTML, CSS und JavaScript zu vertiefen. Die Anwendung ermöglicht lokales Spielen, hat eine intuitive GUI und erkennt automatisch den Gewinner.
 
 **[TicTacToe](https://portfolio.bbbaden.ch/view/view.php?t=c9635a75ca5aecb77c0e)**
 
+***
 
 ### Binary Converter
 Zusammenfassung:
@@ -52,6 +62,7 @@ In diesem Projekt haben wir ein Programm in C# entwickelt, das die Konvertierung
 
 **[Binary Converter](https://portfolio.bbbaden.ch/view/view.php?t=ada8b72f7f91bf68b753)**
 
+***
 
 ### LA-1303-SpielAPI
 Zusammenfassung:
@@ -59,9 +70,12 @@ In diesem Projekt war das Ziel, eine interaktive Spiele-API unter Verwendung von
 
 **[Spiele-API-1301](https://portfolio.bbbaden.ch/view/view.php?t=cc3a2ab5173acb47633b)**
 
+***
 
 ### LB 210 | Public Cloud für Anwendungen nutzen
 Zusammenfassung:
 In diesem Projekt habe ich eine VPC erstellt und erfolgreich eine EC2-Instanz verbunden. Die Architektur umfasste öffentliche und private Subnetze sowie Sicherheitsgruppen zur Steuerung des Datenverkehrs. Trotz anfänglicher Fehler wurde die VPC korrekt eingerichtet, und die EC2-Instanz konnte genutzt werden, um eine GitLab CI/CD-Pipeline zu konfigurieren. Trotz eines unerwarteten Fehlers in der Pipeline war das Projekt eine wertvolle Lernerfahrung.
 
 [Public Cloud für Anwendungen nutzen](https://portfolio.bbbaden.ch/view/view.php?t=b2b95c032ade0e631591)
+
+***
