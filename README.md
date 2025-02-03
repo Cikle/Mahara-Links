@@ -3,6 +3,23 @@
 
 ***Weiteres können Sie auch auf meinem [GitHub](https://github.com/Cikle) sehen***
 
+### Lohnify - Swiss Salary Calculator
+Zusammenfassung:
+Lohnify ist eine Flutter-basierte mobile Anwendung, die Nutzern in der Schweiz hilft, ihr Nettogehalt zu berechnen. Dabei werden verschiedene Abzüge wie Sozialversicherungsbeiträge, Pensionskassen und kantonale Steuersätze berücksichtigt.
+
+**Funktionen:**
+- Brutto-zu-Netto-Gehaltsberechnung
+- Unterstützung für alle 26 Schweizer Kantone mit spezifischen Steuersätzen
+- Abzüge für Sozialversicherungen (AHV, IV, EO, ALV)
+- Berechnung der Pensionskassenbeiträge
+- Kirchensteuer-Berechnungen
+- Unterstützung für 13. Monatsgehalt
+- Dark-/Light-Theme
+- Mehrsprachige Unterstützung (Deutsch/Englisch/Französisch)
+
+**[Lohnify GitHub](https://github.com/Cikle/lohnify)**
+
+
 ### React Native Schrittzähler App
 Zusammenfassung:
 Das Projekt ist eine aktive Schrittzähler-App für Handys mit automatischem Speichern und Kalorienzähler.
